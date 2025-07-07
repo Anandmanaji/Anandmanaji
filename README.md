@@ -25,8 +25,7 @@ With a strong foundation in **functional coverage**, **assertions**, and **CDC v
 
 ---
 
-## 🔗 Connect with Me
-<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
+## 🔗 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
 
 
 ## 🌐 Socials:
