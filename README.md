@@ -1,5 +1,36 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm **Anand Manaji**, a passionate **Design Verification Engineer** with hands-on experience in **SystemVerilog**, **UVM**, and **RTL debugging**. I enjoy building scalable, reusable testbenches and solving complex verification challenges across protocols like **AXI**, **FIFO**, and **memory subsystems**.<br><br>With a strong foundation in **functional coverage**, **assertions**, and **CDC verification**, I aim to ensure first-silicon success using industry-standard tools such as **QuestaSim**, **VCS**, and **ModelSim**.<br><br>---<br><br>🛠️ Technical Skills<br><br>* **Languages & Methodologies:** SystemVerilog, Verilog, UVM, Functional Coverage, Assertions, CDC<br>* **Tools & Platforms:** QuestaSim, Synopsys VCS, ModelSim, Gvim, EDA Playground<br>* **Scripting:** Shell Scripting, Basic Python<br>* **OS:** Linux, Windows<br><br>---<br><br>🚀 Projects<br><br>* **AXI Protocol Verification:** Built UVM testbench; achieved 90%+ coverage<br>* **FIFO Verification:** Designed and verified synchronous/asynchronous FIFO with CDC handling<br>* **Configurable Memory Design:** Verified parametric memory with front-door/back-door access<br><br>---<br><br>📚 Currently Focused On<br><br>* Coverage-driven verification and advanced UVM techniques<br>* Assertion-based verification and real-time RTL debugging<br>* Building reusable verification IPs in training at **VLSIGuru**<br><br>---<br><br>🔗 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
+💫 About Me
+👋 Hello, I'm Anand Manaji
+I'm a passionate Design Verification Engineer with hands-on experience in SystemVerilog, UVM, and RTL debugging. I enjoy building scalable, reusable testbenches and solving complex verification challenges across protocols like AXI, FIFO, and memory subsystems.
+
+With a strong foundation in functional coverage, assertions, and CDC verification, I aim to ensure first-silicon success using industry-standard tools such as QuestaSim, VCS, and ModelSim.
+
+🛠️ Technical Skills
+Languages & Methodologies: SystemVerilog, Verilog, UVM, Functional Coverage, Assertions, CDC
+
+Tools & Platforms: QuestaSim, Synopsys VCS, ModelSim, Gvim, EDA Playground
+
+Scripting: Shell Scripting, Python (Basic)
+
+Operating Systems: Linux, Windows
+
+🚀 Projects
+AXI Protocol Verification:
+Built UVM testbench and achieved 90%+ functional coverage
+
+FIFO Verification (Sync/Async):
+Designed and verified FIFO in Verilog with CDC handling; ensured data integrity
+
+Configurable Memory Design:
+Developed a parametric memory module and verified both front-door and back-door access using assertions and waveforms
+
+📚 Currently Focused On
+📈 Coverage-driven verification and advanced UVM methodologies
+
+🧠 Assertion-based verification and RTL debugging
+
+🧩 Developing reusable verification components through real-time training at VLSIGuru
+
+🔗 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
 
 
 ## 🌐 Socials:
