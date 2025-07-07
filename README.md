@@ -1,36 +1,46 @@
-💫 About Me
-👋 Hello, I'm Anand Manaji
-I'm a passionate Design Verification Engineer with hands-on experience in SystemVerilog, UVM, and RTL debugging. I enjoy building scalable, reusable testbenches and solving complex verification challenges across protocols like AXI, FIFO, and memory subsystems.
+# 💫 About Me
 
-With a strong foundation in functional coverage, assertions, and CDC verification, I aim to ensure first-silicon success using industry-standard tools such as QuestaSim, VCS, and ModelSim.
+## 👋 Hello, I'm **Anand Manaji**
 
-🛠️ Technical Skills
-Languages & Methodologies: SystemVerilog, Verilog, UVM, Functional Coverage, Assertions, CDC
+I'm a passionate **Design Verification Engineer** with hands-on experience in **SystemVerilog**, **UVM**, and **RTL debugging**. I enjoy building scalable, reusable testbenches and solving complex verification challenges across protocols like **AXI**, **FIFO**, and **memory subsystems**.
 
-Tools & Platforms: QuestaSim, Synopsys VCS, ModelSim, Gvim, EDA Playground
+With a strong foundation in **functional coverage**, **assertions**, and **CDC verification**, I aim to ensure first-silicon success using industry-standard tools such as **QuestaSim**, **VCS**, and **ModelSim**.
 
-Scripting: Shell Scripting, Python (Basic)
+---
 
-Operating Systems: Linux, Windows
+## 🛠️ Technical Skills
 
-🚀 Projects
-AXI Protocol Verification:
-Built UVM testbench and achieved 90%+ functional coverage
+- **Languages & Methodologies:** `SystemVerilog`, `Verilog`, `UVM`, `Functional Coverage`, `Assertions`, `CDC`  
+- **Tools & Platforms:** `QuestaSim`, `Synopsys VCS`, `ModelSim`, `Gvim`, `EDA Playground`  
+- **Scripting:** `Shell Scripting`, `Python (Basic)`  
+- **Operating Systems:** `Linux`, `Windows`
 
-FIFO Verification (Sync/Async):
-Designed and verified FIFO in Verilog with CDC handling; ensured data integrity
+---
 
-Configurable Memory Design:
-Developed a parametric memory module and verified both front-door and back-door access using assertions and waveforms
+## 🚀 Projects
 
-📚 Currently Focused On
-📈 Coverage-driven verification and advanced UVM methodologies
+- **AXI Protocol Verification:**  
+  Built UVM testbench and achieved 90%+ functional coverage
 
-🧠 Assertion-based verification and RTL debugging
+- **FIFO Verification (Sync/Async):**  
+  Designed and verified FIFO in Verilog with CDC handling; ensured data integrity
 
-🧩 Developing reusable verification components through real-time training at VLSIGuru
+- **Configurable Memory Design:**  
+  Developed a parametric memory module and verified both front-door and back-door access using assertions and waveforms
 
-🔗 Connect with Me<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
+---
+
+## 📚 Currently Focused On
+
+- 📈 Coverage-driven verification and advanced UVM methodologies  
+- 🧠 Assertion-based verification and RTL debugging  
+- 🧩 Developing reusable verification components through real-time training at **VLSIGuru**
+
+---
+
+## 🔗 Connect with Me
+
+<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
 
 
 ## 🌐 Socials:
