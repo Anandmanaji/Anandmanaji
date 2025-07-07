@@ -17,19 +17,6 @@ With a strong foundation in **functional coverage**, **assertions**, and **CDC v
 
 ---
 
-## 🚀 Projects
-
-- **AXI Protocol Verification:**  
-  Built UVM testbench and achieved 90%+ functional coverage
-
-- **FIFO Verification (Sync/Async):**  
-  Designed and verified FIFO in Verilog with CDC handling; ensured data integrity
-
-- **Configurable Memory Design:**  
-  Developed a parametric memory module and verified both front-door and back-door access using assertions and waveforms
-
----
-
 ## 📚 Currently Focused On
 
 - 📈 Coverage-driven verification and advanced UVM methodologies  
@@ -39,7 +26,6 @@ With a strong foundation in **functional coverage**, **assertions**, and **CDC v
 ---
 
 ## 🔗 Connect with Me
-
 <br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Manaji-blue?logo=linkedin)](https://www.linkedin.com/in/anand-manaji/)<br>
 
 
